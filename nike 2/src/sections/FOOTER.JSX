@@ -1,4 +1,4 @@
-const FOOTER = () => {
+const Footer = () => {
   return (
     <div>Footer</div>
   );
