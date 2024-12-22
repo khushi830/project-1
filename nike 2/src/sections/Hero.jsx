@@ -36,7 +36,7 @@ const Hero = () => {
         width={610}
         height={500} 
         className="objec-contain  relative z-10 "/>
-        <div>
+        <div className="flex">
           {shoes.map((shoe,index)=>(
             <div key={shoe}>
                  <ShoeCard

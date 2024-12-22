@@ -1,6 +1,6 @@
 import Hero from './Hero';
 import PopularProduct from './PopularProduct';
-import Footer from './FOOTER';
+import Footer from './Footer.JSX';
 import Services from './Services';
 import SpecialOffer from './SpecialOffer';
 import Subscribe from './Subscribe';
